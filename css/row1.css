@@ -1,0 +1,171 @@
+
+.row1 {
+    padding: 65px 0;
+}
+.row1 .container .index-title {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.row1 .container .index-title h2 {
+    font-size: 2.125rem;
+    color: #222222;
+    font-weight: normal;
+    position: relative;
+    text-align: center;
+    padding-top: 20px;
+    background: url(../images/indextit-ico1.png) center top no-repeat;
+}
+.row1 .container .index-title a {
+    display: block;
+    margin-top: 15px;
+    text-align: center;
+    font-size: 0.875rem;
+    color: #004088;
+    transition: all 0.5s ease;
+}
+.index-news {
+    overflow: hidden;
+}
+.row1 .container .index-news .news-pic {
+    padding-bottom: 50px;
+    overflow: hidden;
+}
+.row1 .container .index-news .news-pic li {
+    float: left;
+    width: 33.3%;
+    box-sizing: border-box;
+}
+.row1 .container .index-news .news-pic li .box {
+    margin: 0 22px;
+    background: #f4f4f4;
+    transition: all 0.5s ease;
+    overflow: hidden;
+}
+.row1 .container .index-news .news-pic li .box .pic {
+    width: 100%;
+    padding-bottom: 56%;
+    position: relative;
+    overflow: hidden;
+}
+.row1 .container .index-news .news-pic li .box .pic img {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: all 0.5s ease;
+}
+.row1 .container .index-news .news-pic li .box:hover .pic img {
+    transform: scale(1.1);
+    transition: all 0.5s ease;
+}
+.row1 .container .index-news .news-pic li .box .text {
+    overflow: hidden;
+    padding: 25px 30px;
+    position: relative;
+    transition: all 0.5s ease;
+}
+.row1 .container .index-news .news-pic li .box:hover .text {
+    background: url(../images/news-bg.png) bottom center no-repeat;
+    transition: all 0.5s ease;
+}
+.row1 .container .index-news .news-pic li .box .text .tit {
+    font-size: 1rem;
+    color: #333333;
+    line-height: 30px;
+    height: 60px;
+    display: flex;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.row1 .container .index-news .news-pic li .box:hover .text .tit {
+    color: #fff;
+}
+.row1 .container .index-news .news-pic li .box .text .abst {
+    display: flex;
+    margin-top: 15px;
+    font-size: 0.75rem;
+    color: #777777;
+    line-height: 22px;
+    height: 44px;
+    text-indent: 2em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.row1 .container .index-news .news-pic li .box:hover .text .abst {
+    color: #fff;
+}
+.row1 .container .index-news .news-pic li .box .text .date {
+    margin-top: 25px;
+    padding-left: 25px;
+    font-size: 0.875rem;
+    color: #004088;
+    background: url(../images/news-date1.png) left center no-repeat;
+    float: left;
+}
+.row1 .container .index-news .news-pic li .box:hover .text .date {
+    background: url(../images/news-date2.png) left center no-repeat;
+    color: #fff;
+}
+.row1 .container .index-news .news-pic li .box .text .more {
+    float: right;
+    margin-top: 25px;
+    padding-right: 22px;
+    font-size: 0.75rem;
+    color: #004088;
+    background: url(../images/news-more1.png) right center no-repeat;
+}
+.row1 .container .index-news .news-pic li .box:hover .text .more {
+    background: url(../images/news-more2.png) right center no-repeat;
+    color: #fff;
+}
+.row1 .container .index-news .news-txt li {
+    float: left;
+    width: 50%;
+}
+.row1 .container .index-news .news-txt li .box {
+    margin: 0 24px;
+    padding: 28px 30px 18px;
+    background: #f4f4f4;
+    border-bottom: 2px solid #194987;
+    overflow: hidden;
+    transition: all 0.5s ease;
+}
+.row1 .container .index-news .news-txt li .box:hover {
+    background: url(../images/news-bg.png) bottom center;
+    transition: all 0.5s ease;
+}
+.row1 .container .index-news .news-txt li .box .date {
+    float: left;
+    padding-left: 25px;
+    font-size: 0.875rem;
+    color: #004088;
+    background: url(../images/news-date1.png) left center no-repeat;
+}
+.row1 .container .index-news .news-txt li .box:hover .date {
+    background: url(../images/news-date2.png) left center no-repeat;
+    color: #fff;
+}
+.row1 .container .index-news .news-txt li .box .tit {
+    font-size: 1rem;
+    margin-top: 10px;
+    color: #333333;
+    line-height: 30px;
+    height: 60px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.row1 .container .index-news .news-txt li .box:hover .tit {
+    color: #fff;
+}
+.row1 .container .index-news .news-txt li .box .more {
+    float: right;
+    font-size: 0.75rem;
+    color: #004088;
+    padding-right: 22px;
+    background: url(../images/news-more1.png) right center no-repeat;
+}
+.row1 .container .index-news .news-txt li .box:hover .more {
+    background: url(../images/news-more2.png) right center no-repeat;
+    color: #fff;
+}

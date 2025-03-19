@@ -1,0 +1,91 @@
+
+.footer {
+    position: relative;
+    background: url(../images/footer-bg.png) center no-repeat;
+    background-size: cover;
+}
+.footer .row {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.13);
+    overflow: hidden;
+}
+.footer .row .container {
+    width: 1200px;
+    margin: 0 auto;
+}
+.footer .row .container .left {
+    float: left;
+    width: 31%;
+    padding-top: 62px;
+    padding-bottom: 60px;
+    padding-right: 20px;
+}
+.footer .row .container h2 {
+    color: #fff;
+    font-size: 1rem;
+    font-weight: normal;
+    margin-bottom: 20px;
+    padding-bottom: 13px;
+    position: relative;
+}
+.footer .row .container h2::after {
+    content: '';
+    width: 20px;
+    height: 2px;
+    background-color: rgba(255, 255, 255, 0.2);
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.footer .row .container .left li {
+    width: 50%;
+    float: left;
+    display: block;
+}
+.footer .row .container li a {
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 0.875rem;
+    padding: 7px 0;
+}
+.footer .row .container .middle {
+    float: left;
+    width: 30%;
+    padding: 0 0 0 30px;
+    padding-top: 62px;
+    padding-bottom: 999px;
+    margin-bottom: -999px;
+    border-left: 1px solid rgba(255, 255, 255, 0.13);
+    border-right: 1px solid rgba(255, 255, 255, 0.13);
+}
+.footer .row .container .right {
+    float: right;
+    width: 30%;
+    padding-top: 62px;
+    padding-bottom: 999px;
+    margin-bottom: -999px;
+}
+.footer .row .container .right .ewm {
+    float: right;
+    margin-top: 10px;
+    padding-right: 5%;
+}
+.footer .row .container .right .ewm p {
+    margin-top: 10px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 0.875rem;
+}
+.footer .row .container .right .kjrk {
+    float: left;
+    margin-left: 15%;
+    width: 90px;
+}
+.footer .row .container .right li {
+    width: 100%;
+    padding: 7px auto;
+}
+.footer .cory {
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 0.875rem;
+}

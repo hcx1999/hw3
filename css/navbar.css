@@ -1,0 +1,71 @@
+
+.top {
+    height: 45px;
+    line-height: 45px;
+    background-color: #103675;
+}
+.wdtop {
+    width: 1600px;
+    position: relative;
+    margin: 0 auto;
+    max-width: 95%;
+}
+.search-btn {
+    float: right;
+    cursor: pointer;
+}
+.search-btn img {
+    vertical-align: middle;
+}
+.top-links {
+    float: right;
+    position: relative;
+    text-align: right;
+    margin-right: 20px;
+}
+.top-links .link1 {
+    background: url(../images/top-link-ico1.png) left center no-repeat;
+}
+.top-links .link2 {
+    background: url(../images/top-link-ico2.png) left center no-repeat;
+}
+.top-links .link3 {
+    background: url(../images/top-link-ico3.png) left center no-repeat;
+}
+.top-links .link4 {
+    background: url(../images/top-link-ico4.png) left center no-repeat;
+}
+.top-links li {
+    float: left;
+    padding-left: 20px;
+    margin-right: 20px;
+}
+.top-links li a {
+    color: #9fafc8;
+    font-size: 0.875rem;
+}
+.top-links span {
+    color: #9fafc8;
+    font-size: 0.875rem;
+}
+
+.header {
+    width: 100%;
+    padding: 10px 0px;
+    background-color: white;
+    transition: 0.7s ease-out;
+}
+.header .logo {
+    float: left;
+    width: calc(100% - 80px);
+    max-width: 420px;
+}
+.header .nav-button {
+    right: 0;
+    bottom: -35px;
+    position: absolute;
+    font-size: 20px;
+    cursor: pointer;
+    color: #103675;
+    display: block;
+}

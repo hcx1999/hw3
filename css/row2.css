@@ -1,0 +1,311 @@
+.row2 {
+    background: url(../images/row2-bg.png) right bottom no-repeat;
+    position: relative;
+    overflow: hidden;
+}
+
+
+
+.row2 .index-tzgg {
+    background: url(../images/row-tzgg-bg.png) center top no-repeat;
+    background-size: cover;
+    padding: 70px 0 115px;
+    overflow: hidden;
+}
+.row2 .index-tzgg .container .index-title {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.row2 .index-tzgg .container .index-title h2 {
+    font-size: 2.125rem;
+    color: #fff;
+    font-weight: normal;
+    position: relative;
+    text-align: center;
+    padding-top: 20px;
+    background: url(../images/indextit-ico2.png) center top no-repeat;
+}
+.row2 .index-tzgg .container .index-title a {
+    display: block;
+    margin-top: 15px;
+    text-align: center;
+    font-size: 0.875rem;
+    color: rgba(255, 255, 255, 0.6);
+}
+.row2 .index-tzgg .container .index-tab .hd {
+    text-align: center;
+    margin-top: 30px;
+}
+.row2 .index-tzgg .container .index-tab .hd span {
+    display: inline-block;
+    font-size: 1rem;
+    color: #fff;
+    padding: 8px 13px;
+    margin: 0 10px;
+    border-radius: 20px;
+}
+.row2 .index-tzgg .container .index-tab .hd span:hover {
+    background: #cca36a;
+}
+.row2 .index-tzgg .container .index-tab .bd {
+    margin-top: 10px;
+}
+/* .row2 .index-tzgg .container .index-tab .bd ul {
+    margin: 0 -22px;
+} */
+.row2 .index-tzgg .container .index-tab .bd ul li {
+    float: left;
+    width: 33.3333%;
+    padding-top: 20px;
+    margin-top: 30px;
+}
+.row2 .index-tzgg .container .index-tab .bd ul li a {
+    display: block;
+    margin: 0 22px;
+    background: #fff;
+    padding: 18px 40px 18px 20px;
+}
+.row2 .index-tzgg .container .index-tab .bd ul li a:hover {
+    background: url(../images/tzgg-bg.png) right center no-repeat;
+}
+.row2 .index-tzgg .container .index-tab .bd ul li a .date {
+    position: relative;
+    width: 70px;
+    text-align: center;
+    border: 1px solid #dfe8f2;
+}
+.row2 .index-tzgg .container .index-tab .bd ul li a .date:before {
+    content: "";
+    width: 9px;
+    height: 84px;
+    background: url(../images/tzgg-date-ico.png) no-repeat;
+    position: absolute;
+    top: -40px;
+    left: 4px;
+}
+.row2 .index-tzgg .container .index-tab .bd ul li a .date .xy {
+    color: #fff;
+    background-color: #34819d;
+}
+.row2 .index-tzgg .container .index-tab .bd ul li a .date .day {
+    color: #0b4790;
+    background-color: #fff;
+    font-size: 1.625rem;
+    font-weight: bold;
+    line-height: 36px;
+}
+.row2 .index-tzgg .container .index-tab .bd ul li a .date .mon {
+    color: #0b4790;
+    background-color: #dfe8f2;
+    font-size: 0.875rem;
+}
+.row2 .index-tzgg .container .index-tab .bd ul li a .tit {
+    float: left;
+    font-size: 1rem;
+    line-height: 30px;
+    height: 60px;
+    color: #333333;
+    margin-left: 95px;
+    margin-top: -72px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.row2 .index-tzgg .container .index-tab .bd ul li a:hover .tit {
+    color: #fff;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+
+
+.row2 .index-xgdt {
+    background: url(../images/row-xgdt-bg.png) center top no-repeat;
+    background-size: cover;
+    padding: 0 0 70px;
+    overflow: hidden;
+}
+.row2 .index-xgdt .container {
+    position: relative;
+    width: 95%;
+    margin: 0 auto;
+}
+.row2 .index-xgdt .container .index-title {
+    position: relative;
+    overflow: hidden;
+    margin-left: -85%;
+}
+.row2 .index-xgdt .container .index-title h2 {
+    font-size: 2.125rem;
+    color: #fff;
+    font-weight: normal;
+    position: relative;
+    text-align: center;
+    padding-top: 20px;
+    background: url(../images/indextit-ico2.png) center top no-repeat;
+}
+.row2 .index-xgdt .container .index-title a {
+    display: block;
+    margin-top: 15px;
+    text-align: center;
+    font-size: 0.875rem;
+    color: rgba(255, 255, 255, 0.6);
+}
+.row2 .index-xgdt .container .xgdt-box {
+    position: relative;
+}
+.row2 .index-xgdt .container .xgdt-box ul {
+    margin: -100px -15px;
+    padding-top: 220px;
+}
+.row2 .index-xgdt .container .xgdt-box ul .d1 {
+    float: left;
+    width: 50%;
+}
+.row2 .index-xgdt .container .xgdt-box ul .d3 {
+    float: right;
+    width: 50%;
+}
+.row2 .index-xgdt .container .xgdt-box ul li {
+    float: left;
+    margin-top: 30px;
+    width: 50%;
+}
+.row2 .index-xgdt .container .xgdt-box ul .box3 {
+    float: left;
+    margin-top: 30px;
+    width: 100%;
+}
+.row2 .index-xgdt .container .xgdt-box ul .box4 {
+    float: left;
+    margin-top: -160px;
+    width: 100%;
+    overflow: hidden;
+}
+.row2 .index-xgdt .container .xgdt-box ul .box4 video {
+    transition: all 0.5s ease;
+}
+.row2 .index-xgdt .container .xgdt-box ul .box4 video:hover {
+    transform: scale(1.1);
+    transition: all 0.5s ease;
+}
+.row2 .index-xgdt .container .xgdt-box ul .box5 a {
+    height: 125px;
+}
+.row2 .index-xgdt .container .xgdt-box ul li a {
+    display: block;
+    margin: 0 15px;
+    overflow: hidden;
+    padding-bottom: 56%;
+    position: relative;
+}
+.row2 .index-xgdt .container .xgdt-box ul li a img {
+    size: cover;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+.row2 .index-xgdt .container .xgdt-box ul li a:hover img {
+    transform: scale(1.1);
+    transition: all 0.5s ease;
+}
+.row2 .index-xgdt .container .xgdt-box ul li a .tit {
+    position: absolute;
+    padding: 10px 15px;
+    width: 100%;
+    bottom: 0;
+    background: linear-gradient(rgba(0, 0, 0, 0.1), black);
+}
+.row2 .index-xgdt .container .xgdt-box ul li a:hover .tit {
+    background: rgba(3, 44, 141, 0.6);
+}
+.row2 .index-xgdt .container .xgdt-box ul li a .tit p {
+    font-size: 1rem;
+    color: #fff;
+    line-height: 22px;
+    height: 44px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+}
+
+
+
+.row2 .index-jzxx {
+    background-size: cover;
+    padding: 70px 0 115px;
+    overflow: hidden;
+}
+.row2 .index-jzxx .container .index-title {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.row2 .index-jzxx .container .index-title h2 {
+    font-size: 2.125rem;
+    color: #222222;
+    font-weight: normal;
+    position: relative;
+    text-align: center;
+    padding-top: 20px;
+    background: url(../images/indextit-ico1.png) center top no-repeat;
+}
+.row2 .index-jzxx .container .index-title a {
+    display: block;
+    margin-top: 15px;
+    text-align: center;
+    font-size: 0.875rem;
+    color: #004088
+}
+.row2 .index-jzxx .container .list {
+    position: relative;
+    margin: 10px;
+}
+.row2 .index-jzxx .container .list .box {
+    float: left;
+    width: 30%;
+    margin: 20px 20px;
+    padding: 50px 30px 40px 30px;
+    border-top: solid 2px #103675;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+.row2 .index-jzxx .container .list .box:hover {
+    background: url(../images/jzxx-bg.png) no-repeat;
+}
+.row2 .index-jzxx .container .list .box .title a {
+    color: #20579a;
+    font-size: 1rem;
+    line-height: 30px;
+    height: 60px;
+    text-overflow: ellipsis;
+}
+.row2 .index-jzxx .container .list .box:hover a {
+    color: #fff;
+}
+
+.row2 .index-jzxx .container .list .box .info {
+    font-size: 0.975rem;
+    margin-top: 15px;
+    padding-top: 10px;
+    border-top: solid 1px #d6d6d6;
+}
+.row2 .index-jzxx .container .list .box .info p {
+    color: #666666;
+    padding: 7px 0 7px 35px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.row2 .index-jzxx .container .list .box .info .p1 {
+    background: url(../images/jzxx-ico11.png) no-repeat 0 50%;
+}
+.row2 .index-jzxx .container .list .box .info .p2 {
+    background: url(../images/jzxx-ico21.png) no-repeat 0 50%;
+}
+.row2 .index-jzxx .container .list .box .info .p3 {
+    background: url(../images/jzxx-ico31.png) no-repeat 0 50%;
+}
+.row2 .index-jzxx .container .list .box:hover .info p {
+    color: #fff;
+}
